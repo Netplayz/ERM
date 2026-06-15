@@ -20,14 +20,11 @@ privately **before** disclosing it publicly.
 
 ### How to report
 
-1. **Join our [Support Server](https://discord.gg/FAC629TzBy)** and
-   open a ticket in the `#security` channel, or
-2. **Email the core team** (contact details available through the
-   support server), or
-3. **Open a draft [GitHub Security Advisory](https://github.com/ERM-Systems/ERM/security/advisories/new).
+Please report vulnerabilities via the
+[GitHub Security Advisory](https://github.com/ERM-Systems/ERM/security/advisories/new)
+system.
 
-Please **do not** use the public issue tracker for vulnerability
-reports.
+Do **not** use the public issue tracker for vulnerability reports.
 
 ### What to include
 
